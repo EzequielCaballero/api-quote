@@ -1,0 +1,16 @@
+{
+  "name": "api-quote",
+  "version": "0.0.1",
+  "description": "REST API created to get inspiring quotes through a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EAC",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "netlify-lambda": "^1.5.1",
+    "serverless-http": "^2.0.2"
+  }
+}
