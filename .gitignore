@@ -1,3 +1,4 @@
 # .gitignore
+.vscode
 functions
 node_modules
