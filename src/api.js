@@ -1,18 +1,11 @@
 'use strict';
 const express = require("express");
+const routes = require("./routes/routes");
 const serverless = require("serverless-http");
 
 const app = express();
 
-const router = express.Router();
-
-router.get('/', (req, res) => {
-    res.json({
-        'hello': 'hi'
-    });
-});
-
-app.use(`/.netlify/functions/api`, router);
+app.use(`/.netlify/functions/api`, routes);
 
 module.exports = app;
 module.exports.handler = serverless(app);
