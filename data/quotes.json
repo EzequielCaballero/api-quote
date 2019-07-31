@@ -1,0 +1,374 @@
+{
+    "1": {
+        "quote": {
+            "en": {
+                "author": "Friedrich Nietzche",
+                "text": "You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist"
+            },
+            "es": {
+                "author": "Friedrich Nietzche",
+                "text": "Tú tienes tu manera, yo tengo mi manera. En cuanto a la forma correcta, la manera correcta, y la única manera, esa no existe"
+            }
+        }
+    },
+    "2": {
+        "quote": {
+            "en": {
+                "author": "Thomas Edison",
+                "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time"
+            },
+            "es": {
+                "author": "Thomas Edison",
+                "text": "Nuestra mayor debilidad radica en renunciar. La forma más segura de tener éxito es siempre intentar una vez más"
+            }
+        }
+    },
+    "3": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world"
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento. El conocimiento es limitado. La imaginación rodea el mundo"
+            }
+        }
+    },
+    "4": {
+        "quote": {
+            "en": {
+                "author": "Carl Sagan",
+                "text": "Somewhere, something incredible is waiting to be known"
+            },
+            "es": {
+                "author": "Carl Sagan",
+                "text": "En algún lugar algo increíble está esperando ser descubierto"
+            }
+        }
+    },
+    "5": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty"
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El pesimista ve dificultad en toda oportunidad. El optimista ve oportunidad en toda dificultad"
+            }
+        }
+    },
+    "6": {
+        "quote": {
+            "en": {
+                "author": "Johann W. Goethe",
+                "text": "Knowing is not enough; we must apply. Wishing is not enough; we must do"
+            },
+            "es": {
+                "author": "Johann W. Goethe",
+                "text": "Saber no es suficiente, debemos aplicar. Desear no es suficiente, debemos hacer"
+            }
+        }
+    },
+    "7": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "Security is mostly a superstition. Life is either a daring adventure, or nothing"
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "La seguridad es más que nada una superstición. La vida es una aventura atrevida o no es nada"
+            }
+        }
+    },
+    "8": {
+        "quote": {
+            "en": {
+                "author": "Franklin D. Roosevelt",
+                "text": "The only limit to our realization of tomorrow will be our doubts of today"
+            },
+            "es": {
+                "author": "Franklin D. Roosevelt",
+                "text": "El único límite a nuestra realización del mañana serán nuestras dudas de hoy"
+            }
+        }
+    },
+    "9": {
+        "quote": {
+            "en": {
+                "author": "Victor Hugo",
+                "text": "An invasion of armies can be resisted, but not an idea whose time has come"
+            },
+            "es": {
+                "author": "Victor Hugo",
+                "text": "Se puede resistir a la invasión de un ejército, pero no una idea cuyo momento ha llegado"
+            }
+        }
+    },
+    "10": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle"
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "La única manera de hacer un gran trabajo es amar lo que haces. Si no has encontrado todavía algo que ames, sigue buscando. No te conformes"
+            }
+        }
+    },
+    "11": {
+        "quote": {
+            "en": {
+                "author": "Coco Chanel",
+                "text": "Success is often achieved by those who don't know that failure is inevitable"
+            },
+            "es": {
+                "author": "Coco Chanel",
+                "text": "El éxito es a menudo alcanzado por aquellos que no saben que el fracaso es inevitable"
+            }
+        }
+    },
+    "12": {
+        "quote": {
+            "en": {
+                "author": "Karl Marx",
+                "text": "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity"
+            },
+            "es": {
+                "author": "Karl Marx",
+                "text": "La necesidad es ciega hasta que se vuelve consciente. La libertad es la conciencia de la necesidad"
+            }
+        }
+    },
+    "13": {
+        "quote": {
+            "en": {
+                "author": "Lao Tzu",
+                "text": "If you realize that all things change, there is nothing you will try to hold on to"
+            },
+            "es": {
+                "author": "Lao-Tse",
+                "text": "Si comprendes que todas las cosas cambian, no hay nada a lo que intentarás aferrarte"
+            }
+        }
+    },
+    "14": {
+        "quote": {
+            "en": {
+                "author": "Henry David Thoreau",
+                "text": "Success usually comes to those who are too busy to be looking for it"
+            },
+            "es": {
+                "author": "Henry David Thoreau",
+                "text": "El éxito generalmente llega a aquellos que están demasiado ocupados para buscarlo"
+            }
+        }
+    },
+    "15": {
+        "quote": {
+            "en": {
+                "author": "Mahatma Gandhi",
+                "text": "Action expresses priorities"
+            },
+            "es": {
+                "author": "Mahatma Gandhi",
+                "text": "La acción expresa prioridades"
+            }
+        }
+    },
+    "16": {
+        "quote": {
+            "en": {
+                "author": "René Descartes",
+                "text": "Divide each difficulty into as many parts as is feasible and necessary to resolve it"
+            },
+            "es": {
+                "author": "René Descartes",
+                "text": "Divide las dificultades que examinas en tantas partes como sea posible para su mejor solución"
+            }
+        }
+    },
+    "17": {
+        "quote": {
+            "en": {
+                "author": "Leo Tolstoy",
+                "text": "Everyone thinks of changing the world, but no one thinks of changing himself"
+            },
+            "es": {
+                "author": "León Tolstói",
+                "text": "Todos quieren cambiar el mundo, pero nadie piensa en cambiarse a sí mismo"
+            }
+        }
+    },
+    "18": {
+        "quote": {
+            "en": {
+                "author": "Robert Stevenson",
+                "text": "To be what we are, and to become what we are capable of becoming, is the only end of life"
+            },
+            "es": {
+                "author": "Robert Stevenson",
+                "text": "Ser como somos, y convertirnos en lo que somos capaces de convertirnos, es el único fin de la vida"
+            }
+        }
+    },
+    "19": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama XIV",
+                "text": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe"
+            },
+            "es": {
+                "author": "Dalai Lama XIV",
+                "text": "Encuentro la esperanza en los días más oscuros y me concentro en los más brillantes. Yo no juzgo el Universo"
+            }
+        }
+    },
+    "20": {
+        "quote": {
+            "en": {
+                "author": "Nikola Tesla",
+                "text": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more"
+            },
+            "es": {
+                "author": "Nikola Tesla",
+                "text": "Nuestras virtudes y nuestros defectos son inseparables, como la fuerza y la materia. Cuando se separan, el hombre deja de existir"
+            }
+        }
+    },
+    "21": {
+        "quote": {
+            "en": {
+                "author": "Pablo Picasso",
+                "text": "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law"
+            },
+            "es": {
+                "author": "Pablo Picasso",
+                "text": "Puede quien piensa que puede, y no puede quien piensa que no puede. Esta es una ley inexorable e indiscutible"
+            }
+        }
+    },
+    "22": {
+        "quote": {
+            "en": {
+                "author": "Carl Jung",
+                "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases"
+            },
+            "es": {
+                "author": "Carl Jung",
+                "text": "El zapato que se ajusta a una persona pellizca a otra; no hay una receta para vivir que se adapte a todos los casos"
+            }
+        }
+    },
+    "23": {
+        "quote": {
+            "en": {
+                "author": "Samuel Johnson",
+                "text": "Memory is the mother of all wisdom"
+            },
+            "es": {
+                "author": "Samuel Johnson",
+                "text": "La memoria es la madre de toda sabiduría"
+            }
+        }
+    },
+    "24": {
+        "quote": {
+            "en": {
+                "author": "Tehyi Hsieh",
+                "text": "Action will remove the doubts that theory cannot solve"
+            },
+            "es": {
+                "author": "Tehyi Hsieh",
+                "text": "La acción eliminará las dudas que la teoría no puede resolver"
+            }
+        }
+    },
+    "25": {
+        "quote": {
+            "en": {
+                "author": "Leonardo da Vinci",
+                "text": "Time stays long enough for anyone who will use it"
+            },
+            "es": {
+                "author": "Leonardo da Vinci",
+                "text": "El tiempo permanece lo suficiente para cualquiera que lo use"
+            }
+        }
+    },
+    "26": {
+        "quote": {
+            "en": {
+                "author": "Keshavan Nair",
+                "text": "With courage, you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity"
+            },
+            "es": {
+                "author": "Keshavan Nair",
+                "text": "Con valentía, te atreverás a correr riesgos, tendrás la fuerza para ser compasivo y la sabiduría para ser humilde. Valentía es la base de la integridad"
+            }
+        }
+    },
+    "27": {
+        "quote": {
+            "en": {
+                "author": "Thich Nhat Hanh",
+                "text": "The secret of Buddhism is to remove all ideas, all concepts, in order for the truth to have a chance to penetrate, to reveal itself"
+            },
+            "es": {
+                "author": "Thich Nhat Hanh",
+                "text": "El secreto del budismo es eliminar todas las ideas, todos los conceptos, a fin de que la verdad tenga la oportunidad de penetrar, de revelarse"
+            }
+        }
+    },
+    "28": {
+        "quote": {
+            "en": {
+                "author": "John Locke",
+                "text": "I have always thought the actions of men the best interpreters of their thoughts"
+            },
+            "es": {
+                "author": "John Locke",
+                "text": "Siempre he pensado que las acciones de los hombres son las mejores intérpretes de sus pensamientos"
+            }
+        }
+    },
+    "29": {
+        "quote": {
+            "en": {
+                "author": "Marie Curie",
+                "text": "Be less curious about people and more curious about ideas"
+            },
+            "es": {
+                "author": "Marie Curie",
+                "text": "Ten menos curiosidad por las personas y más curiosidad por las ideas"
+            }
+        }
+    },
+    "30": {
+        "quote": {
+            "en": {
+                "author": "Kenji Miyazawa",
+                "text": "We must embrace pain and burn it as fuel for our journey"
+            },
+            "es": {
+                "author": "Kenji Miyazawa",
+                "text": "Debemos abrazar el dolor y quemarlo como combustible para nuestro viaje"
+            }
+        }
+    },
+    "31": {
+        "quote": {
+            "en": {
+                "author": "Jean-Paul Sartre",
+                "text": "We are our choices"
+            },
+            "es": {
+                "author": "Jean-Paul Sartre",
+                "text": "Somos nuestras elecciones"
+            }
+        }
+    }
+}
