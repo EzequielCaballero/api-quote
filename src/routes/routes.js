@@ -13,7 +13,7 @@ router.get('/quote', (req, res) => {
     console.log(`Today is: ${today}`);
     const entry = data[today];
     if (!entry) {
-        res.status(500).send("Internal server error");
+        res.status(500).send("Error 500 - Internal server error");
     }
     res.status(200).json(entry);
 });
@@ -31,10 +31,11 @@ router.get('/quote/:lang', (req, res) => {
             entry = data[today].quote[req.params.lang];
             break;
         default:
+            res.status(404).send("Error 404 - Wrong request. Please check the url path");
             break;
     }
     if (!entry) {
-        res.status(500).send("Internal server error");
+        res.status(500).send("Error 500 - Internal server error");
     }
     res.status(200).json(entry);
 });
@@ -43,7 +44,7 @@ router.get('/quote/:lang', (req, res) => {
 router.get('/quotes', (req, res) => {
     const entry = data;
     if (!entry) {
-        res.status(500).send("Internal server error");
+        res.status(500).send("Error 500 - Internal server error");
     }
     res.status(200).json(entry);
 });
@@ -51,11 +52,10 @@ router.get('/quotes', (req, res) => {
 //GET - Random quote
 router.get('/quotes/random', (req, res) => {
     const random = Math.floor(Math.random() * NUMBER_OF_ENTRIES);
-    console.log(`TOTAL QUOTES: ${NUMBER_OF_ENTRIES}`);
-    console.log(`N° OF QUOTE: ${random}`);
+    console.log(`N° of random quote: ${random}`);
     const entry = data[random];
     if (!entry) {
-        res.status(500).send("Internal server error");
+        res.status(500).send("Error 500 - Internal server error");
     }
     res.status(200).json(entry);
 });
@@ -64,18 +64,25 @@ router.get('/quotes/random', (req, res) => {
 router.get('/quotes/random/:lang', (req, res) => {
     const random = Math.floor(Math.random() * NUMBER_OF_ENTRIES);
     let entry = null;
-    console.log(`TOTAL QUOTES: ${NUMBER_OF_ENTRIES}`);
-    console.log(`N° OF QUOTE: ${random}`);
+    console.log(`N° of random quote: ${random}`);
     switch (req.params.lang) {
         case "en":
         case "es":
             entry = data[random].quote[req.params.lang];
-            res.status(200).json(entry);
             break;
         default:
-            res.status(500).send("Internal server error");
+            res.status(404).send("Error 404 - Wrong request. Please check the url path");
             break;
     }
+    if(!entry){
+        res.status(500).send("Error 500 - Internal server error");
+    }
+    res.status(200).json(entry);
+});
+
+//GET - Generic 404
+router.get('/*', (req, res) => {
+    res.status(404).send("Error 404 - Wrong request. Please check the url path");
 });
 
 module.exports = router;
