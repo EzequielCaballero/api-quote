@@ -1,10 +1,10 @@
 # REST API - *Today's quote* 
 ***
-Hosted in **Netlify** and using **Express** + **Netlify-lambda** functions + **serverless-http**, this API will return as response a different author-quote per day. Which quote you are going to get by default is defined by the current day (n° 1 to 31) of the month.
+Hosted by **Netlify** and using **Express** + **Netlify-lambda** functions + **serverless-http**, this API will return as response a different author-quote per day. Which quote you are going to get by default is defined by the current day (n° 1 to 31) of the month (ART time zone).
 
 ## [**HOME PAGE**](https://eac-api-quote.netlify.com/)
 
-**Total quotes:** **31** (one per day) - language available: English / Spanish
+**Total quotes:** **31** (one per day) - available languages: English / Spanish
 
 ***
 ## SAMPLE | *Get today's quote*
@@ -28,7 +28,7 @@ https://eac-api-quote.netlify.com/.netlify/functions/api/quote
 ```
 
 ***
-## **GET** | *Options available*
+## **GET** | *Available options*
 
 Considering the following url https://eac-api-quote.netlify.com/**.netlify/functions/api**/*CHANGE-THIS-VALUE*
 
