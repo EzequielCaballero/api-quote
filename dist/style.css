@@ -71,7 +71,6 @@ hr {
 
 .btn,
 .btn:focus {
-    font-weight: bold;
     font-size: 1.5em;
     color: rgb(68, 68, 68);
     border-color: transparent;
@@ -94,10 +93,13 @@ hr {
     outline: none;
 }
 
+/* GENERAL */
+
 .link {
     text-decoration: none;
     text-decoration-color: inherit;
     text-decoration-line: none;
     text-decoration-style: solid;
     list-style: none;
+    font-weight: bold;
 }
