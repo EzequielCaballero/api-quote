@@ -5,11 +5,6 @@
     box-sizing: border-box;
 }
 
-html {
-    height: 100%;
-    min-height: 100vh;
-}
-
 body {
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f85032+0,f16f5c+50,f6290c+51,f02f17+71,e73827+100;Red+Gloss+%231 */
     background: rgb(248, 80, 50);
@@ -26,26 +21,42 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    /* POSITION */
+    display: table;
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
 
 
 /* INDEX VIEW */
 
 hr {
+    width: 50%;
     border: 3px solid rgb(117, 18, 18);
 }
 
 .main-box {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    display: table-cell;
+    vertical-align: middle;
+    padding: 30px;
     font-size: 1.5em;
 }
 
-.main-list {
-    list-style-type: none;
-    line-height: 2em;
+.main-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-title,
+.main-footer {
+    text-align: center;
+}
+
+.main-list-item {
+    margin-bottom: 1rem;
 }
 
 .list-item-title {
@@ -92,6 +103,7 @@ hr {
     color: white;
     outline: none;
 }
+
 
 /* GENERAL */
 
