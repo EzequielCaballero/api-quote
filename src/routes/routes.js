@@ -5,11 +5,16 @@ const data = require("../../data/quotes.json");
 const router = Router();
 const NUMBER_OF_ENTRIES = Object.keys(data).length;
 
+const getToday = () => {
+    const date = new Date();
+    const day = (date.getDate()).toString().padStart(2, '0');
+    const month = (date.getMonth() + 1).toString().padStart(2, '0');
+    return `${month}-${day}`;
+};
+
 //GET - Today's quote (default)
 router.get('/quote', (req, res) => {
-    const today = new Date().toLocaleDateString(undefined, {
-        day: "numeric",
-    });
+    const today = getToday();
     console.log(`Today is: ${today}`);
     const entry = data[today];
     if (!entry) {
@@ -20,9 +25,7 @@ router.get('/quote', (req, res) => {
 
 //GET - Today's quote in a specific language
 router.get('/quote/:lang', (req, res) => {
-    const today = new Date().toLocaleDateString(undefined, {
-        day: "numeric",
-    });
+    const today = getToday();
     console.log(`Today is: ${today}`);
     let entry = null;
     switch (req.params.lang) {
@@ -74,7 +77,7 @@ router.get('/quotes/random/:lang', (req, res) => {
             res.status(404).send("Error 404 - Wrong request. Please check the url path");
             break;
     }
-    if(!entry){
+    if (!entry) {
         res.status(500).send("Error 500 - Internal server error");
     }
     res.status(200).json(entry);
