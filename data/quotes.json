@@ -1,374 +1,4385 @@
 {
-    "1": {
+    "01-01": {
         "quote": {
             "en": {
-                "author": "Friedrich Nietzche",
-                "text": "You have your way. I have my way. As for the right way, the correct way, and the only way, it does not exist"
+                "author": "Ralph Waldo Emerson",
+                "text": "Write it on your heart that every day is the best day in the year."
             },
             "es": {
-                "author": "Friedrich Nietzche",
-                "text": "Tú tienes tu manera, yo tengo mi manera. En cuanto a la forma correcta, la manera correcta, y la única manera, esa no existe"
+                "author": "Ralph Waldo Emerson",
+                "text": "Grábalo en tu corazón, cada día es el mejor día del año."
             }
         }
     },
-    "2": {
-        "quote": {
-            "en": {
-                "author": "Thomas Edison",
-                "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time"
-            },
-            "es": {
-                "author": "Thomas Edison",
-                "text": "Nuestra mayor debilidad radica en renunciar. La forma más segura de tener éxito es siempre intentar una vez más"
-            }
-        }
-    },
-    "3": {
+    "01-02": {
         "quote": {
             "en": {
                 "author": "Albert Einstein",
-                "text": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world"
+                "text": "Imagination is more important than knowledge."
             },
             "es": {
                 "author": "Albert Einstein",
-                "text": "La imaginación es más importante que el conocimiento. El conocimiento es limitado. La imaginación rodea el mundo"
+                "text": "La imaginación es más importante que el conocimiento."
             }
         }
     },
-    "4": {
+    "01-03": {
         "quote": {
             "en": {
-                "author": "Carl Sagan",
-                "text": "Somewhere, something incredible is waiting to be known"
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
             },
             "es": {
-                "author": "Carl Sagan",
-                "text": "En algún lugar algo increíble está esperando ser descubierto"
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo les hiciste sentir."
             }
         }
     },
-    "5": {
+    "01-04": {
         "quote": {
             "en": {
-                "author": "Winston Churchill",
-                "text": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty"
+                "author": "Walt Disney",
+                "text": "The way to get started is to quit talking and begin doing."
             },
             "es": {
-                "author": "Winston Churchill",
-                "text": "El pesimista ve dificultad en toda oportunidad. El optimista ve oportunidad en toda dificultad"
+                "author": "Walt Disney",
+                "text": "La forma de comenzar es dejar de hablar y empezar a hacerlo."
             }
         }
     },
-    "6": {
+    "01-05": {
         "quote": {
             "en": {
-                "author": "Johann W. Goethe",
-                "text": "Knowing is not enough; we must apply. Wishing is not enough; we must do"
+                "author": "Lewis Carroll",
+                "text": "I can't go back to yesterday because I was a different person then."
             },
             "es": {
-                "author": "Johann W. Goethe",
-                "text": "Saber no es suficiente, debemos aplicar. Desear no es suficiente, debemos hacer"
+                "author": "Lewis Carroll",
+                "text": "No puedo volver ayer porque era una persona diferente entonces."
             }
         }
     },
-    "7": {
+    "01-06": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes emprender es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "01-07": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "01-08": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "The secret of getting ahead is getting started."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "El secreto para avanzar es comenzar."
+            }
+        }
+    },
+    "01-09": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "01-10": {
+        "quote": {
+            "en": {
+                "author": "Vincent van Gogh",
+                "text": "What would life be if we had no courage to attempt anything?"
+            },
+            "es": {
+                "author": "Vincent van Gogh",
+                "text": "¿Qué sería la vida si no tuviéramos el coraje para intentar algo?"
+            }
+        }
+    },
+    "01-11": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedes no controlar todos los eventos que te suceden, pero puedes decidir no ser reducido por ellos."
+            }
+        }
+    },
+    "01-12": {
+        "quote": {
+            "en": {
+                "author": "J.R.R. Tolkien",
+                "text": "Not all those who wander are lost."
+            },
+            "es": {
+                "author": "J.R.R. Tolkien",
+                "text": "No todos los que vagan están perdidos."
+            }
+        }
+    },
+    "01-13": {
         "quote": {
             "en": {
                 "author": "Helen Keller",
-                "text": "Security is mostly a superstition. Life is either a daring adventure, or nothing"
+                "text": "Alone we can do so little; together we can do so much."
             },
             "es": {
                 "author": "Helen Keller",
-                "text": "La seguridad es más que nada una superstición. La vida es una aventura atrevida o no es nada"
+                "text": "Solos podemos hacer muy poco; juntos podemos hacer mucho."
             }
         }
     },
-    "8": {
+    "01-14": {
         "quote": {
             "en": {
-                "author": "Franklin D. Roosevelt",
-                "text": "The only limit to our realization of tomorrow will be our doubts of today"
+                "author": "Ralph Waldo Emerson",
+                "text": "The only person you are destined to become is the person you decide to be."
             },
             "es": {
-                "author": "Franklin D. Roosevelt",
-                "text": "El único límite a nuestra realización del mañana serán nuestras dudas de hoy"
+                "author": "Ralph Waldo Emerson",
+                "text": "La única persona que estás destinado a convertirte es la persona que decides ser."
             }
         }
     },
-    "9": {
-        "quote": {
-            "en": {
-                "author": "Victor Hugo",
-                "text": "An invasion of armies can be resisted, but not an idea whose time has come"
-            },
-            "es": {
-                "author": "Victor Hugo",
-                "text": "Se puede resistir a la invasión de un ejército, pero no una idea cuyo momento ha llegado"
-            }
-        }
-    },
-    "10": {
+    "01-15": {
         "quote": {
             "en": {
                 "author": "Steve Jobs",
-                "text": "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle"
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
             },
             "es": {
                 "author": "Steve Jobs",
-                "text": "La única manera de hacer un gran trabajo es amar lo que haces. Si no has encontrado todavía algo que ames, sigue buscando. No te conformes"
+                "text": "Tu trabajo va a ocupar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
             }
         }
     },
-    "11": {
+    "01-16": {
         "quote": {
             "en": {
-                "author": "Coco Chanel",
-                "text": "Success is often achieved by those who don't know that failure is inevitable"
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
             },
             "es": {
-                "author": "Coco Chanel",
-                "text": "El éxito es a menudo alcanzado por aquellos que no saben que el fracaso es inevitable"
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
             }
         }
     },
-    "12": {
+    "01-17": {
         "quote": {
             "en": {
-                "author": "Karl Marx",
-                "text": "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity"
+                "author": "Albert Einstein",
+                "text": "A person who never made a mistake never tried anything new."
             },
             "es": {
-                "author": "Karl Marx",
-                "text": "La necesidad es ciega hasta que se vuelve consciente. La libertad es la conciencia de la necesidad"
+                "author": "Albert Einstein",
+                "text": "Una persona que nunca cometió un error nunca intentó nada nuevo."
             }
         }
     },
-    "13": {
+    "01-18": {
+        "quote": {
+            "en": {
+                "author": "Mother Teresa",
+                "text": "Not all of us can do great things. But we can do small things with great love."
+            },
+            "es": {
+                "author": "Madre Teresa",
+                "text": "No todos nosotros podemos hacer cosas grandiosas. Pero podemos hacer cosas pequeñas con gran amor."
+            }
+        }
+    },
+    "01-19": {
+        "quote": {
+            "en": {
+                "author": "Henry Ford",
+                "text": "Failure is simply the opportunity to begin again, this time more intelligently."
+            },
+            "es": {
+                "author": "Henry Ford",
+                "text": "El fracaso es simplemente la oportunidad de empezar de nuevo, esta vez más inteligentemente."
+            }
+        }
+    },
+    "01-20": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar."
+            }
+        }
+    },
+    "01-21": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You can’t use up creativity. The more you use, the more you have."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "No puedes agotar la creatividad. Cuanto más la uses, más tendrás."
+            }
+        }
+    },
+    "01-22": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do one thing every day that scares you."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz una cosa todos los días que te asuste."
+            }
+        }
+    },
+    "01-23": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "Be yourself; everyone else is already taken."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Sé tú mismo; todos los demás ya están ocupados."
+            }
+        }
+    },
+    "01-24": {
+        "quote": {
+            "en": {
+                "author": "Thomas Edison",
+                "text": "I have not failed. I've just found 10,000 ways that won't work."
+            },
+            "es": {
+                "author": "Thomas Edison",
+                "text": "No he fallado. Simplemente he encontrado 10,000 maneras que no funcionarán."
+            }
+        }
+    },
+    "01-25": {
+        "quote": {
+            "en": {
+                "author": "Charles Darwin",
+                "text": "A man who dares to waste one hour of time has not discovered the value of life."
+            },
+            "es": {
+                "author": "Charles Darwin",
+                "text": "Un hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."
+            }
+        }
+    },
+    "01-26": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We realize the importance of our voices only when we are silenced."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "Nos damos cuenta de la importancia de nuestras voces solo cuando somos silenciados."
+            }
+        }
+    },
+    "01-27": {
+        "quote": {
+            "en": {
+                "author": "William Shakespeare",
+                "text": "It is not in the stars to hold our destiny but in ourselves."
+            },
+            "es": {
+                "author": "William Shakespeare",
+                "text": "No está en las estrellas mantener nuestro destino, sino en nosotros mismos."
+            }
+        }
+    },
+    "01-28": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "01-29": {
+        "quote": {
+            "en": {
+                "author": "Thomas Jefferson",
+                "text": "I find that the harder I work, the more luck I seem to have."
+            },
+            "es": {
+                "author": "Thomas Jefferson",
+                "text": "Encuentro que cuanto más trabajo, más suerte parece venir a mí."
+            }
+        }
+    },
+    "01-30": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The only source of knowledge is experience."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La única fuente de conocimiento es la experiencia."
+            }
+        }
+    },
+    "01-31": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas en el mundo no pueden ser vistas ni siquiera tocadas, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "02-01": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay detrás de nosotros y lo que hay delante de nosotros son asuntos insignificantes comparados con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "02-02": {
+        "quote": {
+            "en": {
+                "author": "Dr. Seuss",
+                "text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose."
+            },
+            "es": {
+                "author": "Dr. Seuss",
+                "text": "Tienes cerebro en la cabeza. Tienes pies en los zapatos. Puedes dirigirte en cualquier dirección que elijas."
+            }
+        }
+    },
+    "02-03": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "02-04": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You are never too old to set another goal or to dream a new dream."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Nunca eres demasiado viejo para establecer otra meta o soñar un nuevo sueño."
+            }
+        }
+    },
+    "02-05": {
+        "quote": {
+            "en": {
+                "author": "Abraham Lincoln",
+                "text": "In the end, it's not the years in your life that count. It's the life in your years."
+            },
+            "es": {
+                "author": "Abraham Lincoln",
+                "text": "Al final, no son los años de tu vida lo que cuenta. Es la vida en tus años."
+            }
+        }
+    },
+    "02-06": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do, you have to keep moving forward."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "Si no puedes volar, entonces corre, si no puedes correr, entonces camina, si no puedes caminar, entonces gatea, pero lo que sea que hagas, tienes que seguir adelante."
+            }
+        }
+    },
+    "02-07": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The true sign of intelligence is not knowledge but imagination."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El verdadero signo de inteligencia no es el conocimiento, sino la imaginación."
+            }
+        }
+    },
+    "02-08": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "Life is either a daring adventure or nothing at all."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "La vida es una aventura audaz o no es nada en absoluto."
+            }
+        }
+    },
+    "02-09": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La mayor gloria en la vida no reside en nunca caer, sino en levantarnos cada vez que caemos."
+            }
+        }
+    },
+    "02-10": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "To live is the rarest thing in the world. Most people exist, that is all."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Vivir es la cosa más rara del mundo. La mayoría de las personas simplemente existen, eso es todo."
+            }
+        }
+    },
+    "02-11": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The measure of intelligence is the ability to change."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La medida de la inteligencia es la capacidad de cambiar."
+            }
+        }
+    },
+    "02-12": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "The secret of getting ahead is getting started."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "El secreto para avanzar es comenzar."
+            }
+        }
+    },
+    "02-13": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Stay hungry, stay foolish."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Mantén el hambre, mantén la locura."
+            }
+        }
+    },
+    "02-14": {
+        "quote": {
+            "en": {
+                "author": "William Shakespeare",
+                "text": "Love all, trust a few, do wrong to none."
+            },
+            "es": {
+                "author": "William Shakespeare",
+                "text": "Ama a todos, confía en pocos, no hagas mal a ninguno."
+            }
+        }
+    },
+    "02-15": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "With the new day comes new strength and new thoughts."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Con el nuevo día llega nueva fuerza y nuevos pensamientos."
+            }
+        }
+    },
+    "02-16": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "02-17": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "There is no greater agony than bearing an untold story inside you."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "No hay mayor agonía que llevar una historia sin contar dentro de ti."
+            }
+        }
+    },
+    "02-18": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "It's kind of fun to do the impossible."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Es divertido hacer lo imposible."
+            }
+        }
+    },
+    "02-19": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Our lives begin to end the day we become silent about things that matter."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "Nuestras vidas comienzan a terminar el día que nos volvemos silenciosos sobre las cosas que importan."
+            }
+        }
+    },
+    "02-20": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you don't like something, change it. If you can't change it, change your attitude."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si no te gusta algo, cámbialo. Si no puedes cambiarlo, cambia tu actitud."
+            }
+        }
+    },
+    "02-21": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "A person who never made a mistake never tried anything new."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "Una persona que nunca cometió un error nunca intentó nada nuevo."
+            }
+        }
+    },
+    "02-22": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser tú mismo en un mundo que constantemente intenta hacerte otra cosa es el mayor logro."
+            }
+        }
+    },
+    "02-23": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Cuando una puerta de la felicidad se cierra, otra se abre; pero a menudo miramos tanto tiempo la puerta cerrada que no vemos la que se abre para nosotros."
+            }
+        }
+    },
+    "02-24": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar."
+            }
+        }
+    },
+    "02-25": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I can be changed by what happens to me, but I refuse to be reduced by it."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedo ser cambiado por lo que me sucede, pero me niego a ser reducido por ello."
+            }
+        }
+    },
+    "02-26": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your time is limited, don't waste it living someone else's life."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu tiempo es limitado, no lo malgastes viviendo la vida de alguien más."
+            }
+        }
+    },
+    "02-27": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El mundo que hemos creado es un proceso de nuestro pensamiento. No se puede cambiar sin cambiar nuestro pensamiento."
+            }
+        }
+    },
+    "02-28": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "No one can make you feel inferior without your consent."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Nadie puede hacerte sentir inferior sin tu consentimiento."
+            }
+        }
+    },
+    "03-01": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Life is a journey, not a destination."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "La vida es un viaje, no un destino."
+            }
+        }
+    },
+    "03-02": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa dentro de ti, dásela a las personas que amas."
+            }
+        }
+    },
+    "03-03": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "The more you like yourself, the less you are like anyone else, which makes you unique."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Cuanto más te gustes a ti mismo, menos te parecerás a cualquier otra persona, lo que te hace único."
+            }
+        }
+    },
+    "03-04": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is everything. It is the preview of life's coming attractions."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es todo. Es el avance de las próximas atracciones de la vida."
+            }
+        }
+    },
+    "03-05": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We cannot all succeed when half of us are held back."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "No todos podemos tener éxito cuando la mitad de nosotros está retenida."
+            }
+        }
+    },
+    "03-06": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "03-07": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay detrás de nosotros y lo que hay delante de nosotros son asuntos insignificantes comparados con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "03-08": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "03-09": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedes no controlar todos los eventos que te suceden, pero puedes decidir no ser reducido por ellos."
+            }
+        }
+    },
+    "03-10": {
+        "quote": {
+            "en": {
+                "author": "Vincent van Gogh",
+                "text": "Great things are done by a series of small things brought together."
+            },
+            "es": {
+                "author": "Vincent van Gogh",
+                "text": "Grandes cosas se hacen a través de una serie de pequeñas cosas reunidas."
+            }
+        }
+    },
+    "03-11": {
+        "quote": {
+            "en": {
+                "author": "Dr. Seuss",
+                "text": "You're never too old, too wacky, too wild, to pick up a book and read to a child."
+            },
+            "es": {
+                "author": "Dr. Seuss",
+                "text": "Nunca eres demasiado viejo, demasiado absurdo, demasiado salvaje, para tomar un libro y leer a un niño."
+            }
+        }
+    },
+    "03-12": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "Life is either a daring adventure or nothing at all."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "La vida es una aventura audaz o no es nada en absoluto."
+            }
+        }
+    },
+    "03-13": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "03-14": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "The way to get started is to quit talking and begin doing."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "La forma de comenzar es dejar de hablar y empezar a hacerlo."
+            }
+        }
+    },
+    "03-15": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you don't like something, change it. If you can't change it, change your attitude."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si no te gusta algo, cámbialo. Si no puedes cambiarlo, cambia tu actitud."
+            }
+        }
+    },
+    "03-16": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La vida es como andar en bicicleta. Para mantener el equilibrio debes seguir moviéndote."
+            }
+        }
+    },
+    "03-17": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies before us and what lies behind us are small matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay delante de nosotros y lo que hay detrás de nosotros son asuntos pequeños en comparación con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "03-18": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El propósito de la vida no es ser feliz. Es ser útil, ser honorable, ser compasivo, hacer alguna diferencia por haber vivido y vivido bien."
+            }
+        }
+    },
+    "03-19": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "03-20": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes emprender es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "03-21": {
+        "quote": {
+            "en": {
+                "author": "Henry Ford",
+                "text": "Whether you think you can or you think you can't, you're right."
+            },
+            "es": {
+                "author": "Henry Ford",
+                "text": "Ya sea que pienses que puedes o que no puedes, tienes razón."
+            }
+        }
+    },
+    "03-22": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa dentro de ti, dásela a las personas que amas."
+            }
+        }
+    },
+    "03-23": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "03-24": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Creativity is contagious, pass it on."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La creatividad es contagiosa, pásala."
+            }
+        }
+    },
+    "03-25": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "The only person you are destined to become is the person you decide to be."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "La única persona que estás destinado a convertirte es la persona que decides ser."
+            }
+        }
+    },
+    "03-26": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a ocupar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "03-27": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "03-28": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "A person who never made a mistake never tried anything new."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "Una persona que nunca cometió un error nunca intentó nada nuevo."
+            }
+        }
+    },
+    "03-29": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo les hiciste sentir."
+            }
+        }
+    },
+    "03-30": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
+            }
+        }
+    },
+    "03-31": {
+        "quote": {
+            "en": {
+                "author": "Charles Darwin",
+                "text": "It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change."
+            },
+            "es": {
+                "author": "Charles Darwin",
+                "text": "No es la especie más fuerte la que sobrevive, ni la más inteligente. Es la que mejor se adapta al cambio."
+            }
+        }
+    },
+    "04-01": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Write it on your heart that every day is the best day in the year."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Grábalo en tu corazón, cada día es el mejor día del año."
+            }
+        }
+    },
+    "04-02": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento."
+            }
+        }
+    },
+    "04-03": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo les hiciste sentir."
+            }
+        }
+    },
+    "04-04": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "The way to get started is to quit talking and begin doing."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "La forma de comenzar es dejar de hablar y empezar a hacerlo."
+            }
+        }
+    },
+    "04-05": {
+        "quote": {
+            "en": {
+                "author": "Lewis Carroll",
+                "text": "I can't go back to yesterday because I was a different person then."
+            },
+            "es": {
+                "author": "Lewis Carroll",
+                "text": "No puedo volver ayer porque era una persona diferente entonces."
+            }
+        }
+    },
+    "04-06": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes emprender es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "04-07": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "04-08": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "The secret of getting ahead is getting started."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "El secreto para avanzar es comenzar."
+            }
+        }
+    },
+    "04-09": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "04-10": {
+        "quote": {
+            "en": {
+                "author": "Vincent van Gogh",
+                "text": "What would life be if we had no courage to attempt anything?"
+            },
+            "es": {
+                "author": "Vincent van Gogh",
+                "text": "¿Qué sería la vida si no tuviéramos el coraje para intentar algo?"
+            }
+        }
+    },
+    "04-11": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedes no controlar todos los eventos que te suceden, pero puedes decidir no ser reducido por ellos."
+            }
+        }
+    },
+    "04-12": {
+        "quote": {
+            "en": {
+                "author": "J.R.R. Tolkien",
+                "text": "Not all those who wander are lost."
+            },
+            "es": {
+                "author": "J.R.R. Tolkien",
+                "text": "No todos los que vagan están perdidos."
+            }
+        }
+    },
+    "04-13": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "Alone we can do so little; together we can do so much."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Solos podemos hacer muy poco; juntos podemos hacer mucho."
+            }
+        }
+    },
+    "04-14": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "The only person you are destined to become is the person you decide to be."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "La única persona que estás destinado a convertirte es la persona que decides ser."
+            }
+        }
+    },
+    "04-15": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a ocupar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "04-16": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
+            }
+        }
+    },
+    "04-17": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "A person who never made a mistake never tried anything new."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "Una persona que nunca cometió un error nunca intentó nada nuevo."
+            }
+        }
+    },
+    "04-18": {
+        "quote": {
+            "en": {
+                "author": "Mother Teresa",
+                "text": "Not all of us can do great things. But we can do small things with great love."
+            },
+            "es": {
+                "author": "Madre Teresa",
+                "text": "No todos nosotros podemos hacer cosas grandiosas. Pero podemos hacer cosas pequeñas con gran amor."
+            }
+        }
+    },
+    "04-19": {
+        "quote": {
+            "en": {
+                "author": "Henry Ford",
+                "text": "Failure is simply the opportunity to begin again, this time more intelligently."
+            },
+            "es": {
+                "author": "Henry Ford",
+                "text": "El fracaso es simplemente la oportunidad de empezar de nuevo, esta vez más inteligentemente."
+            }
+        }
+    },
+    "04-20": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar."
+            }
+        }
+    },
+    "04-21": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You can’t use up creativity. The more you use, the more you have."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "No puedes agotar la creatividad. Cuanto más la uses, más tendrás."
+            }
+        }
+    },
+    "04-22": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do one thing every day that scares you."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz una cosa todos los días que te asuste."
+            }
+        }
+    },
+    "04-23": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "Be yourself; everyone else is already taken."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Sé tú mismo; todos los demás ya están ocupados."
+            }
+        }
+    },
+    "04-24": {
+        "quote": {
+            "en": {
+                "author": "Thomas Edison",
+                "text": "I have not failed. I've just found 10,000 ways that won't work."
+            },
+            "es": {
+                "author": "Thomas Edison",
+                "text": "No he fallado. Simplemente he encontrado 10,000 maneras que no funcionarán."
+            }
+        }
+    },
+    "04-25": {
+        "quote": {
+            "en": {
+                "author": "Charles Darwin",
+                "text": "A man who dares to waste one hour of time has not discovered the value of life."
+            },
+            "es": {
+                "author": "Charles Darwin",
+                "text": "Un hombre que se atreve a perder una hora de tiempo no ha descubierto el valor de la vida."
+            }
+        }
+    },
+    "04-26": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We realize the importance of our voices only when we are silenced."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "Nos damos cuenta de la importancia de nuestras voces solo cuando somos silenciados."
+            }
+        }
+    },
+    "04-27": {
+        "quote": {
+            "en": {
+                "author": "William Shakespeare",
+                "text": "It is not in the stars to hold our destiny but in ourselves."
+            },
+            "es": {
+                "author": "William Shakespeare",
+                "text": "No está en las estrellas mantener nuestro destino, sino en nosotros mismos."
+            }
+        }
+    },
+    "04-28": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "04-29": {
+        "quote": {
+            "en": {
+                "author": "Thomas Jefferson",
+                "text": "I find that the harder I work, the more luck I seem to have."
+            },
+            "es": {
+                "author": "Thomas Jefferson",
+                "text": "Encuentro que cuanto más trabajo, más suerte parece venir a mí."
+            }
+        }
+    },
+    "04-30": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The only source of knowledge is experience."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La única fuente de conocimiento es la experiencia."
+            }
+        }
+    },
+    "05-01": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas en el mundo no pueden ser vistas ni siquiera tocadas, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "05-02": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay detrás de nosotros y lo que hay delante de nosotros son asuntos insignificantes comparados con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "05-03": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa dentro de ti, dásela a las personas que amas."
+            }
+        }
+    },
+    "05-04": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "The more you like yourself, the less you are like anyone else, which makes you unique."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Cuanto más te gustes a ti mismo, menos te parecerás a cualquier otra persona, lo que te hace único."
+            }
+        }
+    },
+    "05-05": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento."
+            }
+        }
+    },
+    "05-06": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We cannot all succeed when half of us are held back."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "No todos podemos tener éxito cuando la mitad de nosotros está retenida."
+            }
+        }
+    },
+    "05-07": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies behind us and what lies before us are small matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay detrás de nosotros y lo que hay delante de nosotros son asuntos pequeños en comparación con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "05-08": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "05-09": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedes no controlar todos los eventos que te suceden, pero puedes decidir no ser reducido por ellos."
+            }
+        }
+    },
+    "05-10": {
+        "quote": {
+            "en": {
+                "author": "Vincent van Gogh",
+                "text": "Great things are done by a series of small things brought together."
+            },
+            "es": {
+                "author": "Vincent van Gogh",
+                "text": "Grandes cosas se hacen a través de una serie de pequeñas cosas reunidas."
+            }
+        }
+    },
+    "05-11": {
+        "quote": {
+            "en": {
+                "author": "Dr. Seuss",
+                "text": "You're never too old, too wacky, too wild, to pick up a book and read to a child."
+            },
+            "es": {
+                "author": "Dr. Seuss",
+                "text": "Nunca eres demasiado viejo, demasiado absurdo, demasiado salvaje, para tomar un libro y leer a un niño."
+            }
+        }
+    },
+    "05-12": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "Life is either a daring adventure or nothing at all."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "La vida es una aventura audaz o no es nada en absoluto."
+            }
+        }
+    },
+    "05-13": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "05-14": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "It's kind of fun to do the impossible."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Es divertido hacer lo imposible."
+            }
+        }
+    },
+    "05-15": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you don't like something, change it. If you can't change it, change your attitude."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si no te gusta algo, cámbialo. Si no puedes cambiarlo, cambia tu actitud."
+            }
+        }
+    },
+    "05-16": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Life is like riding a bicycle. To keep your balance, you must keep moving."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La vida es como andar en bicicleta. Para mantener el equilibrio debes seguir moviéndote."
+            }
+        }
+    },
+    "05-17": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies before us and what lies behind us are small matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay delante de nosotros y lo que hay detrás de nosotros son asuntos pequeños en comparación con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "05-18": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El propósito de la vida no es ser feliz. Es ser útil, ser honorable, ser compasivo, hacer alguna diferencia por haber vivido y vivido bien."
+            }
+        }
+    },
+    "05-19": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "05-20": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes emprender es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "05-21": {
+        "quote": {
+            "en": {
+                "author": "Henry Ford",
+                "text": "Whether you think you can or you think you can't, you're right."
+            },
+            "es": {
+                "author": "Henry Ford",
+                "text": "Ya sea que pienses que puedes o que no puedes, tienes razón."
+            }
+        }
+    },
+    "05-22": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser tú mismo en un mundo que constantemente intenta hacerte otra cosa es el mayor logro."
+            }
+        }
+    },
+    "05-23": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Cuando una puerta de la felicidad se cierra, otra se abre; pero a menudo miramos tanto tiempo la puerta cerrada que no vemos la que se abre para nosotros."
+            }
+        }
+    },
+    "05-24": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para continuar."
+            }
+        }
+    },
+    "05-25": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I can be changed by what happens to me, but I refuse to be reduced by it."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedo ser cambiado por lo que me sucede, pero me niego a ser reducido por ello."
+            }
+        }
+    },
+    "05-26": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your time is limited, don't waste it living someone else's life."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu tiempo es limitado, no lo malgastes viviendo la vida de alguien más."
+            }
+        }
+    },
+    "05-27": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El mundo que hemos creado es un proceso de nuestro pensamiento. No se puede cambiar sin cambiar nuestro pensamiento."
+            }
+        }
+    },
+    "05-28": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "No one can make you feel inferior without your consent."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Nadie puede hacerte sentir inferior sin tu consentimiento."
+            }
+        }
+    },
+    "05-29": {
+        "quote": {
+            "en": {
+                "author": "Thomas Jefferson",
+                "text": "I find that the harder I work, the more luck I seem to have."
+            },
+            "es": {
+                "author": "Thomas Jefferson",
+                "text": "Encuentro que cuanto más trabajo, más suerte parece venir a mí."
+            }
+        }
+    },
+    "05-30": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The only source of knowledge is experience."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La única fuente de conocimiento es la experiencia."
+            }
+        }
+    },
+    "05-31": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas en el mundo no pueden ser vistas ni siquiera tocadas, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "06-01": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Life is a journey, not a destination."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "La vida es un viaje, no un destino."
+            }
+        }
+    },
+    "06-02": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa dentro de ti, dásela a las personas que amas."
+            }
+        }
+    },
+    "06-03": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "The more you like yourself, the less you are like anyone else, which makes you unique."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Cuanto más te gustes a ti mismo, menos te parecerás a cualquier otra persona, lo que te hace único."
+            }
+        }
+    },
+    "06-04": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is everything. It is the preview of life's coming attractions."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es todo. Es el avance de las próximas atracciones de la vida."
+            }
+        }
+    },
+    "06-05": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We cannot all succeed when half of us are held back."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "No todos podemos tener éxito cuando la mitad de nosotros está retenida."
+            }
+        }
+    },
+    "06-06": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar al odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "06-07": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que hay detrás de nosotros y lo que hay delante de nosotros son asuntos insignificantes comparados con lo que hay dentro de nosotros."
+            }
+        }
+    },
+    "06-08": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "06-09": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedes no controlar todos los eventos que te suceden, pero puedes decidir no ser reducido por ellos."
+            }
+        }
+    },
+    "06-10": {
+        "quote": {
+            "en": {
+                "author": "Vincent van Gogh",
+                "text": "Great things are done by a series of small things brought together."
+            },
+            "es": {
+                "author": "Vincent van Gogh",
+                "text": "Grandes cosas se hacen a través de una serie de pequeñas cosas reunidas."
+            }
+        }
+    },
+    "06-11": {
+        "quote": {
+            "en": {
+                "author": "Dr. Seuss",
+                "text": "You're never too old, too wacky, too wild, to pick up a book and read to a child."
+            },
+            "es": {
+                "author": "Dr. Seuss",
+                "text": "Nunca eres demasiado viejo, demasiado absurdo, demasiado salvaje, para tomar un libro y leer a un niño."
+            }
+        }
+    },
+    "06-12": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "Life is either a daring adventure or nothing at all."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "La vida es una aventura audaz o no es nada en absoluto."
+            }
+        }
+    },
+    "06-13": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "06-14": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir."
+            }
+        }
+    },
+    "06-15": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento. Para el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimula el progreso, da luz a la evolución."
+            }
+        }
+    },
+    "06-16": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "06-17": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "Turn your wounds into wisdom."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "Convierte tus heridas en sabiduría."
+            }
+        }
+    },
+    "06-18": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "06-19": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "06-20": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La mayor gloria en vivir no está en no caer nunca, sino en levantarnos cada vez que caemos."
+            }
+        }
+    },
+    "06-21": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love. Don't be surly at home, then go out in the street and start grinning 'Good morning' at total strangers."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa en ti, dásela a las personas que amas. No seas hosco en casa y luego salgas a la calle sonriendo 'buenos días' a completos desconocidos."
+            }
+        }
+    },
+    "06-22": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que sí hiciste. Así que suelta las amarras. Navega lejos del puerto seguro. Atrapa los vientos alisios en tus velas. Explora. Sueña. Descubre."
+            }
+        }
+    },
+    "06-23": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más bellas cosas del mundo no se pueden ver ni tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "06-24": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "06-25": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso. El odio no puede expulsar al odio; solo el amor puede hacer eso."
+            }
+        }
+    },
+    "06-26": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama",
+                "text": "Happiness is not something ready made. It comes from your own actions."
+            },
+            "es": {
+                "author": "Dalai Lama",
+                "text": "La felicidad no es algo hecho de antemano. Viene de tus propias acciones."
+            }
+        }
+    },
+    "06-27": {
+        "quote": {
+            "en": {
+                "author": "Pablo Picasso",
+                "text": "Every child is an artist. The problem is how to remain an artist once we grow up."
+            },
+            "es": {
+                "author": "Pablo Picasso",
+                "text": "Todo niño es un artista. El problema es cómo seguir siendo un artista una vez que crecemos."
+            }
+        }
+    },
+    "06-28": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We realize the importance of our voices only when we are silenced."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "Nos damos cuenta de la importancia de nuestras voces solo cuando somos silenciados."
+            }
+        }
+    },
+    "06-29": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "06-30": {
+        "quote": {
+            "en": {
+                "author": "Marilyn Monroe",
+                "text": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring."
+            },
+            "es": {
+                "author": "Marilyn Monroe",
+                "text": "La imperfección es belleza, la locura es genialidad y es mejor ser absolutamente ridículo que absolutamente aburrido."
+            }
+        }
+    },
+    "07-01": {
+        "quote": {
+            "en": {
+                "author": "J.K. Rowling",
+                "text": "It is our choices, Harry, that show what we truly are, far more than our abilities."
+            },
+            "es": {
+                "author": "J.K. Rowling",
+                "text": "Son nuestras elecciones, Harry, las que muestran lo que realmente somos, mucho más que nuestras habilidades."
+            }
+        }
+    },
+    "07-02": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: es el coraje para continuar lo que cuenta."
+            }
+        }
+    },
+    "07-03": {
+        "quote": {
+            "en": {
+                "author": "Amelia Earhart",
+                "text": "The most effective way to do it, is to do it."
+            },
+            "es": {
+                "author": "Amelia Earhart",
+                "text": "La forma más efectiva de hacerlo es hacerlo."
+            }
+        }
+    },
+    "07-04": {
+        "quote": {
+            "en": {
+                "author": "Abraham Lincoln",
+                "text": "My Best Friend is a person who will give me a book I have not read."
+            },
+            "es": {
+                "author": "Abraham Lincoln",
+                "text": "Mi mejor amigo es aquella persona que me entregará un libro que no he leído."
+            }
+        }
+    },
+    "07-05": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "Be yourself; everyone else is already taken."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Sé tú mismo; todos los demás ya están tomados."
+            }
+        }
+    },
+    "07-06": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "07-07": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "Try to be a rainbow in someone's cloud."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Intenta ser un arco iris en la nube de alguien."
+            }
+        }
+    },
+    "07-08": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "07-09": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The true sign of intelligence is not knowledge but imagination."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El verdadero signo de inteligencia no es el conocimiento, sino la imaginación."
+            }
+        }
+    },
+    "07-10": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do what you feel in your heart to be right, for you'll be criticized anyway."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz lo que sientas en tu corazón que es correcto, de todas formas te criticarán."
+            }
+        }
+    },
+    "07-11": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can ever take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes tener es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "07-12": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo ocupará gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "07-13": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser uno mismo en un mundo que constantemente intenta convertirte en otra cosa es el mayor logro."
+            }
+        }
+    },
+    "07-14": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas del mundo no se pueden ver ni siquiera tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "07-15": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
+            }
+        }
+    },
+    "07-16": {
+        "quote": {
+            "en": {
+                "author": "Harriet Tubman",
+                "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."
+            },
+            "es": {
+                "author": "Harriet Tubman",
+                "text": "Todo gran sueño comienza con un soñador. Recuerda siempre, tienes dentro de ti la fuerza, la paciencia y la pasión para alcanzar las estrellas y cambiar el mundo."
+            }
+        }
+    },
+    "07-17": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir."
+            }
+        }
+    },
+    "07-18": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento. Para el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimula el progreso, da luz a la evolución."
+            }
+        }
+    },
+    "07-19": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "07-20": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "Turn your wounds into wisdom."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "Convierte tus heridas en sabiduría."
+            }
+        }
+    },
+    "07-21": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "07-22": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "07-23": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La mayor gloria en vivir no está en no caer nunca, sino en levantarnos cada vez que caemos."
+            }
+        }
+    },
+    "07-24": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love. Don't be surly at home, then go out in the street and start grinning 'Good morning' at total strangers."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa en ti, dásela a las personas que amas. No seas hosco en casa y luego salgas a la calle sonriendo 'buenos días' a completos desconocidos."
+            }
+        }
+    },
+    "07-25": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que sí hiciste. Así que suelta las amarras. Vé alejándote del puerto seguro. Atrapa los vientos alisios en tus velas. Explora. Sueña. Descubre."
+            }
+        }
+    },
+    "07-26": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más bellas cosas del mundo no se pueden ver ni tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "07-27": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "07-28": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso. El odio no puede expulsar al odio; solo el amor puede hacer eso."
+            }
+        }
+    },
+    "07-29": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama",
+                "text": "Happiness is not something ready made. It comes from your own actions."
+            },
+            "es": {
+                "author": "Dalai Lama",
+                "text": "La felicidad no es algo hecho de antemano. Viene de tus propias acciones."
+            }
+        }
+    },
+    "07-30": {
+        "quote": {
+            "en": {
+                "author": "Pablo Picasso",
+                "text": "Every child is an artist. The problem is how to remain an artist once we grow up."
+            },
+            "es": {
+                "author": "Pablo Picasso",
+                "text": "Todo niño es un artista. El problema es cómo seguir siendo un artista una vez que crecemos."
+            }
+        }
+    },
+    "07-31": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We realize the importance of our voices only when we are silenced."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "Nos damos cuenta de la importancia de nuestras voces solo cuando somos silenciados."
+            }
+        }
+    },
+    "08-01": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "08-02": {
+        "quote": {
+            "en": {
+                "author": "Marilyn Monroe",
+                "text": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring."
+            },
+            "es": {
+                "author": "Marilyn Monroe",
+                "text": "La imperfección es belleza, la locura es genialidad y es mejor ser absolutamente ridículo que absolutamente aburrido."
+            }
+        }
+    },
+    "08-03": {
+        "quote": {
+            "en": {
+                "author": "J.K. Rowling",
+                "text": "It is our choices, Harry, that show what we truly are, far more than our abilities."
+            },
+            "es": {
+                "author": "J.K. Rowling",
+                "text": "Son nuestras elecciones, Harry, las que muestran lo que realmente somos, mucho más que nuestras habilidades."
+            }
+        }
+    },
+    "08-04": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: es el coraje para continuar lo que cuenta."
+            }
+        }
+    },
+    "08-05": {
+        "quote": {
+            "en": {
+                "author": "Amelia Earhart",
+                "text": "The most effective way to do it, is to do it."
+            },
+            "es": {
+                "author": "Amelia Earhart",
+                "text": "La forma más efectiva de hacerlo es hacerlo."
+            }
+        }
+    },
+    "08-06": {
+        "quote": {
+            "en": {
+                "author": "Abraham Lincoln",
+                "text": "My Best Friend is a person who will give me a book I have not read."
+            },
+            "es": {
+                "author": "Abraham Lincoln",
+                "text": "Mi mejor amigo es aquella persona que me entregará un libro que no he leído."
+            }
+        }
+    },
+    "08-07": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "Be yourself; everyone else is already taken."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Sé tú mismo; todos los demás ya están tomados."
+            }
+        }
+    },
+    "08-08": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "08-09": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "Try to be a rainbow in someone's cloud."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Intenta ser un arco iris en la nube de alguien."
+            }
+        }
+    },
+    "08-10": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "08-11": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The true sign of intelligence is not knowledge but imagination."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El verdadero signo de inteligencia no es el conocimiento, sino la imaginación."
+            }
+        }
+    },
+    "08-12": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do what you feel in your heart to be right, for you'll be criticized anyway."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz lo que sientas en tu corazón que es correcto, de todas formas te criticarán."
+            }
+        }
+    },
+    "08-13": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can ever take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes tener es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "08-14": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "08-15": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser uno mismo en un mundo que constantemente intenta convertirte en otra cosa es el mayor logro."
+            }
+        }
+    },
+    "08-16": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas del mundo no se pueden ver ni siquiera tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "08-17": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
+            }
+        }
+    },
+    "08-18": {
+        "quote": {
+            "en": {
+                "author": "Harriet Tubman",
+                "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."
+            },
+            "es": {
+                "author": "Harriet Tubman",
+                "text": "Todo gran sueño comienza con un soñador. Recuerda siempre, tienes dentro de ti la fuerza, la paciencia y la pasión para alcanzar las estrellas y cambiar el mundo."
+            }
+        }
+    },
+    "08-19": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir."
+            }
+        }
+    },
+    "08-20": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento. Para el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimula el progreso, da luz a la evolución."
+            }
+        }
+    },
+    "08-21": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "08-22": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "Turn your wounds into wisdom."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "Convierte tus heridas en sabiduría."
+            }
+        }
+    },
+    "08-23": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "08-24": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "08-25": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La mayor gloria en vivir no está en no caer nunca, sino en levantarnos cada vez que caemos."
+            }
+        }
+    },
+    "08-26": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love. Don't be surly at home, then go out in the street and start grinning 'Good morning' at total strangers."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa en ti, dásela a las personas que amas. No seas hosco en casa y luego salgas a la calle sonriendo 'buenos días' a completos desconocidos."
+            }
+        }
+    },
+    "08-27": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que sí hiciste. Así que suelta las amarras. Vé alejándote del puerto seguro. Atrapa los vientos alisios en tus velas. Explora. Sueña. Descubre."
+            }
+        }
+    },
+    "08-28": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más bellas cosas del mundo no se pueden ver ni tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "08-29": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "08-30": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso. El odio no puede expulsar al odio; solo el amor puede hacer eso."
+            }
+        }
+    },
+    "08-31": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama",
+                "text": "Happiness is not something ready made. It comes from your own actions."
+            },
+            "es": {
+                "author": "Dalai Lama",
+                "text": "La felicidad no es algo hecho de antemano. Viene de tus propias acciones."
+            }
+        }
+    },
+    "09-01": {
+        "quote": {
+            "en": {
+                "author": "Pablo Picasso",
+                "text": "Every child is an artist. The problem is how to remain an artist once we grow up."
+            },
+            "es": {
+                "author": "Pablo Picasso",
+                "text": "Todo niño es un artista. El problema es cómo seguir siendo un artista una vez que crecemos."
+            }
+        }
+    },
+    "09-02": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We realize the importance of our voices only when we are silenced."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "Nos damos cuenta de la importancia de nuestras voces solo cuando somos silenciados."
+            }
+        }
+    },
+    "09-03": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "09-04": {
+        "quote": {
+            "en": {
+                "author": "Marilyn Monroe",
+                "text": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring."
+            },
+            "es": {
+                "author": "Marilyn Monroe",
+                "text": "La imperfección es belleza, la locura es genialidad y es mejor ser absolutamente ridículo que absolutamente aburrido."
+            }
+        }
+    },
+    "09-05": {
+        "quote": {
+            "en": {
+                "author": "J.K. Rowling",
+                "text": "It is our choices, Harry, that show what we truly are, far more than our abilities."
+            },
+            "es": {
+                "author": "J.K. Rowling",
+                "text": "Son nuestras elecciones, Harry, las que muestran lo que realmente somos, mucho más que nuestras habilidades."
+            }
+        }
+    },
+    "09-06": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: es el coraje para continuar lo que cuenta."
+            }
+        }
+    },
+    "09-07": {
+        "quote": {
+            "en": {
+                "author": "Amelia Earhart",
+                "text": "The most effective way to do it, is to do it."
+            },
+            "es": {
+                "author": "Amelia Earhart",
+                "text": "La forma más efectiva de hacerlo es hacerlo."
+            }
+        }
+    },
+    "09-08": {
+        "quote": {
+            "en": {
+                "author": "Abraham Lincoln",
+                "text": "My Best Friend is a person who will give me a book I have not read."
+            },
+            "es": {
+                "author": "Abraham Lincoln",
+                "text": "Mi mejor amigo es aquella persona que me entregará un libro que no he leído."
+            }
+        }
+    },
+    "09-09": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "Be yourself; everyone else is already taken."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Sé tú mismo; todos los demás ya están tomados."
+            }
+        }
+    },
+    "09-10": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "09-11": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "Try to be a rainbow in someone's cloud."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Intenta ser un arco iris en la nube de alguien."
+            }
+        }
+    },
+    "09-12": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "09-13": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The true sign of intelligence is not knowledge but imagination."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El verdadero signo de inteligencia no es el conocimiento, sino la imaginación."
+            }
+        }
+    },
+    "09-14": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do what you feel in your heart to be right, for you'll be criticized anyway."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz lo que sientas en tu corazón que es correcto, de todas formas te criticarán."
+            }
+        }
+    },
+    "09-15": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can ever take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes tener es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "09-16": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "09-17": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser uno mismo en un mundo que constantemente intenta convertirte en otra cosa es el mayor logro."
+            }
+        }
+    },
+    "09-18": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas del mundo no se pueden ver ni siquiera tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "09-19": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
+            }
+        }
+    },
+    "09-20": {
+        "quote": {
+            "en": {
+                "author": "Harriet Tubman",
+                "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."
+            },
+            "es": {
+                "author": "Harriet Tubman",
+                "text": "Todo gran sueño comienza con un soñador. Recuerda siempre, tienes dentro de ti la fuerza, la paciencia y la pasión para alcanzar las estrellas y cambiar el mundo."
+            }
+        }
+    },
+    "09-21": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir."
+            }
+        }
+    },
+    "09-22": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento. Para el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimula el progreso, da luz a la evolución."
+            }
+        }
+    },
+    "09-23": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "09-24": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "Turn your wounds into wisdom."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "Convierte tus heridas en sabiduría."
+            }
+        }
+    },
+    "09-25": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "09-26": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "09-27": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La mayor gloria en vivir no está en no caer nunca, sino en levantarnos cada vez que caemos."
+            }
+        }
+    },
+    "09-28": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love. Don't be surly at home, then go out in the street and start grinning 'Good morning' at total strangers."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa en ti, dásela a las personas que amas. No seas hosco en casa y luego salgas a la calle sonriendo 'buenos días' a completos desconocidos."
+            }
+        }
+    },
+    "09-29": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que sí hiciste. Así que suelta las amarras. Vé alejándote del puerto seguro. Atrapa los vientos alisios en tus velas. Explora. Sueña. Descubre."
+            }
+        }
+    },
+    "09-30": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más bellas cosas del mundo no se pueden ver ni tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "10-01": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "10-02": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso. El odio no puede expulsar al odio; solo el amor puede hacer eso."
+            }
+        }
+    },
+    "10-03": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama",
+                "text": "Happiness is not something ready made. It comes from your own actions."
+            },
+            "es": {
+                "author": "Dalai Lama",
+                "text": "La felicidad no es algo hecho de antemano. Viene de tus propias acciones."
+            }
+        }
+    },
+    "10-04": {
+        "quote": {
+            "en": {
+                "author": "Pablo Picasso",
+                "text": "Every child is an artist. The problem is how to remain an artist once we grow up."
+            },
+            "es": {
+                "author": "Pablo Picasso",
+                "text": "Todo niño es un artista. El problema es cómo seguir siendo un artista una vez que crecemos."
+            }
+        }
+    },
+    "10-05": {
+        "quote": {
+            "en": {
+                "author": "Malala Yousafzai",
+                "text": "We realize the importance of our voices only when we are silenced."
+            },
+            "es": {
+                "author": "Malala Yousafzai",
+                "text": "Nos damos cuenta de la importancia de nuestras voces solo cuando somos silenciados."
+            }
+        }
+    },
+    "10-06": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "10-07": {
+        "quote": {
+            "en": {
+                "author": "Marilyn Monroe",
+                "text": "Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring."
+            },
+            "es": {
+                "author": "Marilyn Monroe",
+                "text": "La imperfección es belleza, la locura es genialidad y es mejor ser absolutamente ridículo que absolutamente aburrido."
+            }
+        }
+    },
+    "10-08": {
+        "quote": {
+            "en": {
+                "author": "J.K. Rowling",
+                "text": "It is our choices, Harry, that show what we truly are, far more than our abilities."
+            },
+            "es": {
+                "author": "J.K. Rowling",
+                "text": "Son nuestras elecciones, Harry, las que muestran lo que realmente somos, mucho más que nuestras habilidades."
+            }
+        }
+    },
+    "10-09": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: es el coraje para continuar lo que cuenta."
+            }
+        }
+    },
+    "10-10": {
+        "quote": {
+            "en": {
+                "author": "Amelia Earhart",
+                "text": "The most effective way to do it, is to do it."
+            },
+            "es": {
+                "author": "Amelia Earhart",
+                "text": "La forma más efectiva de hacerlo es hacerlo."
+            }
+        }
+    },
+    "10-11": {
+        "quote": {
+            "en": {
+                "author": "Abraham Lincoln",
+                "text": "My Best Friend is a person who will give me a book I have not read."
+            },
+            "es": {
+                "author": "Abraham Lincoln",
+                "text": "Mi mejor amigo es aquella persona que me entregará un libro que no he leído."
+            }
+        }
+    },
+    "10-12": {
+        "quote": {
+            "en": {
+                "author": "Oscar Wilde",
+                "text": "Be yourself; everyone else is already taken."
+            },
+            "es": {
+                "author": "Oscar Wilde",
+                "text": "Sé tú mismo; todos los demás ya están tomados."
+            }
+        }
+    },
+    "10-13": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "It always seems impossible until it's done."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "Siempre parece imposible hasta que se hace."
+            }
+        }
+    },
+    "10-14": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "Try to be a rainbow in someone's cloud."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Intenta ser un arco iris en la nube de alguien."
+            }
+        }
+    },
+    "10-15": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "10-16": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The true sign of intelligence is not knowledge but imagination."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "El verdadero signo de inteligencia no es el conocimiento, sino la imaginación."
+            }
+        }
+    },
+    "10-17": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do what you feel in your heart to be right, for you'll be criticized anyway."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz lo que sientas en tu corazón que es correcto, de todas formas te criticarán."
+            }
+        }
+    },
+    "10-18": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can ever take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La mayor aventura que puedes tener es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "10-19": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "10-20": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser uno mismo en un mundo que constantemente intenta convertirte en otra cosa es el mayor logro."
+            }
+        }
+    },
+    "10-21": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched, they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más hermosas cosas del mundo no se pueden ver ni siquiera tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "10-22": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
+            }
+        }
+    },
+    "10-23": {
+        "quote": {
+            "en": {
+                "author": "Harriet Tubman",
+                "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world."
+            },
+            "es": {
+                "author": "Harriet Tubman",
+                "text": "Todo gran sueño comienza con un soñador. Recuerda siempre, tienes dentro de ti la fuerza, la paciencia y la pasión para alcanzar las estrellas y cambiar el mundo."
+            }
+        }
+    },
+    "10-24": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir."
+            }
+        }
+    },
+    "10-25": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento. Para el conocimiento es limitado, mientras que la imaginación abarca todo el mundo, estimula el progreso, da luz a la evolución."
+            }
+        }
+    },
+    "10-26": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "The future belongs to those who believe in the beauty of their dreams."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños."
+            }
+        }
+    },
+    "10-27": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "Turn your wounds into wisdom."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "Convierte tus heridas en sabiduría."
+            }
+        }
+    },
+    "10-28": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "10-29": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde el camino te lleve, ve en cambio por donde no hay camino y deja un rastro."
+            }
+        }
+    },
+    "10-30": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La mayor gloria en vivir no está en no caer nunca, sino en levantarnos cada vez que caemos."
+            }
+        }
+    },
+    "10-31": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "If you have only one smile in you, give it to the people you love. Don't be surly at home, then go out in the street and start grinning 'Good morning' at total strangers."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Si solo tienes una sonrisa en ti, dásela a las personas que amas. No seas hosco en casa y luego salgas a la calle sonriendo 'buenos días' a completos desconocidos."
+            }
+        }
+    },
+    "11-01": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "Dentro de veinte años estarás más decepcionado por las cosas que no hiciste que por las que sí hiciste. Así que suelta las amarras. Vé alejándote del puerto seguro. Atrapa los vientos alisios en tus velas. Explora. Sueña. Descubre."
+            }
+        }
+    },
+    "11-02": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las mejores y más bellas cosas del mundo no se pueden ver ni siquiera tocar, deben ser sentidas con el corazón."
+            }
+        }
+    },
+    "11-03": {
+        "quote": {
+            "en": {
+                "author": "Walt Disney",
+                "text": "If you can dream it, you can do it."
+            },
+            "es": {
+                "author": "Walt Disney",
+                "text": "Si puedes soñarlo, puedes hacerlo."
+            }
+        }
+    },
+    "11-04": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar a la oscuridad; solo la luz puede hacer eso. El odio no puede expulsar al odio; solo el amor puede hacer eso."
+            }
+        }
+    },
+    "11-05": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama",
+                "text": "Happiness is not something ready made. It comes from your own actions."
+            },
+            "es": {
+                "author": "Dalai Lama",
+                "text": "La felicidad no es algo hecho de antemano. Viene de tus propias acciones."
+            }
+        }
+    },
+    "11-06": {
+        "quote": {
+            "en": {
+                "author": "Mahatma Gandhi",
+                "text": "The best way to find yourself is to lose yourself in the service of others."
+            },
+            "es": {
+                "author": "Mahatma Gandhi",
+                "text": "La mejor manera de encontrarte a ti mismo es perderse en el servicio a los demás."
+            }
+        }
+    },
+    "11-07": {
         "quote": {
             "en": {
                 "author": "Lao Tzu",
-                "text": "If you realize that all things change, there is nothing you will try to hold on to"
+                "text": "The journey of a thousand miles begins with one step."
             },
             "es": {
-                "author": "Lao-Tse",
-                "text": "Si comprendes que todas las cosas cambian, no hay nada a lo que intentarás aferrarte"
+                "author": "Lao Tzu",
+                "text": "El viaje de mil millas comienza con un solo paso."
             }
         }
     },
-    "14": {
+    "11-08": {
         "quote": {
             "en": {
-                "author": "Henry David Thoreau",
-                "text": "Success usually comes to those who are too busy to be looking for it"
+                "author": "Maya Angelou",
+                "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
             },
             "es": {
-                "author": "Henry David Thoreau",
-                "text": "El éxito generalmente llega a aquellos que están demasiado ocupados para buscarlo"
+                "author": "Maya Angelou",
+                "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo los hiciste sentir."
             }
         }
     },
-    "15": {
+    "11-09": {
         "quote": {
             "en": {
-                "author": "Mahatma Gandhi",
-                "text": "Action expresses priorities"
+                "author": "Albert Einstein",
+                "text": "Imagination is more important than knowledge."
             },
             "es": {
-                "author": "Mahatma Gandhi",
-                "text": "La acción expresa prioridades"
+                "author": "Albert Einstein",
+                "text": "La imaginación es más importante que el conocimiento."
             }
         }
     },
-    "16": {
+    "11-10": {
         "quote": {
             "en": {
-                "author": "René Descartes",
-                "text": "Divide each difficulty into as many parts as is feasible and necessary to resolve it"
+                "author": "Walt Disney",
+                "text": "All our dreams can come true, if we have the courage to pursue them."
             },
             "es": {
-                "author": "René Descartes",
-                "text": "Divide las dificultades que examinas en tantas partes como sea posible para su mejor solución"
+                "author": "Walt Disney",
+                "text": "Todos nuestros sueños pueden hacerse realidad, si tenemos el coraje de perseguirlos."
             }
         }
     },
-    "17": {
+    "11-11": {
+        "quote": {
+            "en": {
+                "author": "J.K. Rowling",
+                "text": "It does not do well to dwell on dreams and forget to live."
+            },
+            "es": {
+                "author": "J.K. Rowling",
+                "text": "No está bien refugiarse en los sueños y olvidar vivir."
+            }
+        }
+    },
+    "11-12": {
+        "quote": {
+            "en": {
+                "author": "Nelson Mandela",
+                "text": "Education is the most powerful weapon which you can use to change the world."
+            },
+            "es": {
+                "author": "Nelson Mandela",
+                "text": "La educación es el arma más poderosa que puedes usar para cambiar el mundo."
+            }
+        }
+    },
+    "11-13": {
+        "quote": {
+            "en": {
+                "author": "Mother Teresa",
+                "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+            },
+            "es": {
+                "author": "Madre Teresa",
+                "text": "Esparce amor por donde vayas. Que nadie se vaya de ti sin sentirse más feliz."
+            }
+        }
+    },
+    "11-14": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Stay hungry, stay foolish."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Mantente hambriento, mantente tonto."
+            }
+        }
+    },
+    "11-15": {
+        "quote": {
+            "en": {
+                "author": "Mark Twain",
+                "text": "The two most important days in your life are the day you are born and the day you find out why."
+            },
+            "es": {
+                "author": "Mark Twain",
+                "text": "Los dos días más importantes en tu vida son el día que naces y el día en que descubres por qué."
+            }
+        }
+    },
+    "11-16": {
+        "quote": {
+            "en": {
+                "author": "Barack Obama",
+                "text": "The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope."
+            },
+            "es": {
+                "author": "Barack Obama",
+                "text": "La mejor manera de no sentirse desesperado es levantarse y hacer algo. No esperes a que cosas buenas te pasen a ti. Si sales y haces que sucedan cosas buenas, llenarás el mundo de esperanza, te llenarás de esperanza."
+            }
+        }
+    },
+    "11-17": {
+        "quote": {
+            "en": {
+                "author": "Oprah Winfrey",
+                "text": "The biggest adventure you can take is to live the life of your dreams."
+            },
+            "es": {
+                "author": "Oprah Winfrey",
+                "text": "La aventura más grande que puedes emprender es vivir la vida de tus sueños."
+            }
+        }
+    },
+    "11-18": {
+        "quote": {
+            "en": {
+                "author": "William Shakespeare",
+                "text": "Love all, trust a few, do wrong to none."
+            },
+            "es": {
+                "author": "William Shakespeare",
+                "text": "Ama a todos, confía en unos pocos, no hagas daño a nadie."
+            }
+        }
+    },
+    "11-19": {
+        "quote": {
+            "en": {
+                "author": "Buddha",
+                "text": "You yourself, as much as anybody in the entire universe, deserve your love and affection."
+            },
+            "es": {
+                "author": "Buda",
+                "text": "Tú mismo, tanto como cualquier ser en todo el universo, mereces tu amor y afecto."
+            }
+        }
+    },
+    "11-20": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "No one can make you feel inferior without your consent."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Nadie puede hacerte sentir inferior sin tu consentimiento."
+            }
+        }
+    },
+    "11-21": {
+        "quote": {
+            "en": {
+                "author": "Pablo Picasso",
+                "text": "Every child is an artist. The problem is how to remain an artist once we grow up."
+            },
+            "es": {
+                "author": "Pablo Picasso",
+                "text": "Cada niño es un artista. El problema es cómo seguir siendo un artista una vez que crecemos."
+            }
+        }
+    },
+    "11-22": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Faith is taking the first step even when you don't see the whole staircase."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La fe es dar el primer paso incluso cuando no ves toda la escalera."
+            }
+        }
+    },
+    "11-23": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "Las cosas mejores y más hermosas del mundo no pueden verse ni siquiera tocarse, deben sentirse con el corazón."
+            }
+        }
+    },
+    "11-24": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Ser tú mismo en un mundo que está constantemente tratando de hacerte algo diferente es el mayor logro."
+            }
+        }
+    },
+    "11-25": {
+        "quote": {
+            "en": {
+                "author": "Albert Camus",
+                "text": "In the depth of winter, I finally learned that within me there lay an invincible summer."
+            },
+            "es": {
+                "author": "Albert Camus",
+                "text": "En el corazón del invierno, finalmente aprendí que dentro de mí había un verano invencible."
+            }
+        }
+    },
+    "11-26": {
+        "quote": {
+            "en": {
+                "author": "Abraham Lincoln",
+                "text": "Whatever you are, be a good one."
+            },
+            "es": {
+                "author": "Abraham Lincoln",
+                "text": "Sea lo que seas, sé bueno en ello."
+            }
+        }
+    },
+    "11-27": {
+        "quote": {
+            "en": {
+                "author": "Rumi",
+                "text": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself."
+            },
+            "es": {
+                "author": "Rumi",
+                "text": "Ayer era inteligente, así que quería cambiar el mundo. Hoy soy sabio, así que me estoy cambiando a mí mismo."
+            }
+        }
+    },
+    "11-28": {
+        "quote": {
+            "en": {
+                "author": "Hermann Hesse",
+                "text": "If you hate a person, you hate something in him that is part of yourself. What isn't part of ourselves doesn't disturb us."
+            },
+            "es": {
+                "author": "Hermann Hesse",
+                "text": "Si odias a una persona, odias algo en él que es parte de ti mismo. Lo que no es parte de nosotros no nos perturba."
+            }
+        }
+    },
+    "11-29": {
+        "quote": {
+            "en": {
+                "author": "Henry Ford",
+                "text": "Whether you think you can, or you think you can't – you're right."
+            },
+            "es": {
+                "author": "Henry Ford",
+                "text": "Ya sea que creas que puedes, o que no puedes, tienes razón."
+            }
+        }
+    },
+    "11-30": {
+        "quote": {
+            "en": {
+                "author": "J.R.R. Tolkien",
+                "text": "Not all those who wander are lost."
+            },
+            "es": {
+                "author": "J.R.R. Tolkien",
+                "text": "No todos los que deambulan están perdidos."
+            }
+        }
+    },
+    "12-01": {
+        "quote": {
+            "en": {
+                "author": "Winston Churchill",
+                "text": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+            },
+            "es": {
+                "author": "Winston Churchill",
+                "text": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el coraje para seguir adelante."
+            }
+        }
+    },
+    "12-02": {
+        "quote": {
+            "en": {
+                "author": "Coco Chanel",
+                "text": "The most courageous act is still to think for yourself. Aloud."
+            },
+            "es": {
+                "author": "Coco Chanel",
+                "text": "El acto más valiente sigue siendo pensar por ti mismo. En voz alta."
+            }
+        }
+    },
+    "12-03": {
+        "quote": {
+            "en": {
+                "author": "Ernest Hemingway",
+                "text": "The only thing that could spoil a day was people. People were always the limiters of happiness except for the very few that were as good as spring itself."
+            },
+            "es": {
+                "author": "Ernest Hemingway",
+                "text": "Lo único que podría arruinar un día eran las personas. Las personas siempre fueron los limitadores de la felicidad, excepto por unas pocas que eran tan buenas como la primavera misma."
+            }
+        }
+    },
+    "12-04": {
+        "quote": {
+            "en": {
+                "author": "Florence Nightingale",
+                "text": "I attribute my success to this: I never gave or took an excuse."
+            },
+            "es": {
+                "author": "Florence Nightingale",
+                "text": "Atribuyo mi éxito a esto: nunca di ni acepté una excusa."
+            }
+        }
+    },
+    "12-05": {
+        "quote": {
+            "en": {
+                "author": "John Lennon",
+                "text": "Life is what happens when you're busy making other plans."
+            },
+            "es": {
+                "author": "John Lennon",
+                "text": "La vida es lo que sucede mientras estás ocupado haciendo otros planes."
+            }
+        }
+    },
+    "12-06": {
+        "quote": {
+            "en": {
+                "author": "Napoleon Hill",
+                "text": "Don't wait. The time will never be just right."
+            },
+            "es": {
+                "author": "Napoleon Hill",
+                "text": "No esperes. El momento nunca será el adecuado."
+            }
+        }
+    },
+    "12-07": {
         "quote": {
             "en": {
                 "author": "Leo Tolstoy",
-                "text": "Everyone thinks of changing the world, but no one thinks of changing himself"
+                "text": "If you want to be happy, be."
             },
             "es": {
-                "author": "León Tolstói",
-                "text": "Todos quieren cambiar el mundo, pero nadie piensa en cambiarse a sí mismo"
+                "author": "Leo Tolstoy",
+                "text": "Si quieres ser feliz, sé."
             }
         }
     },
-    "18": {
+    "12-08": {
         "quote": {
             "en": {
-                "author": "Robert Stevenson",
-                "text": "To be what we are, and to become what we are capable of becoming, is the only end of life"
+                "author": "Plato",
+                "text": "At the touch of love everyone becomes a poet."
             },
             "es": {
-                "author": "Robert Stevenson",
-                "text": "Ser como somos, y convertirnos en lo que somos capaces de convertirnos, es el único fin de la vida"
+                "author": "Platón",
+                "text": "Al contacto del amor todos se convierten en poetas."
             }
         }
     },
-    "19": {
+    "12-09": {
         "quote": {
             "en": {
-                "author": "Dalai Lama XIV",
-                "text": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe"
+                "author": "Frida Kahlo",
+                "text": "I paint flowers so they will not die."
             },
             "es": {
-                "author": "Dalai Lama XIV",
-                "text": "Encuentro la esperanza en los días más oscuros y me concentro en los más brillantes. Yo no juzgo el Universo"
+                "author": "Frida Kahlo",
+                "text": "Pinto flores para que no mueran."
             }
         }
     },
-    "20": {
+    "12-10": {
         "quote": {
             "en": {
-                "author": "Nikola Tesla",
-                "text": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more"
+                "author": "Henry David Thoreau",
+                "text": "Go confidently in the direction of your dreams. Live the life you have imagined."
             },
             "es": {
-                "author": "Nikola Tesla",
-                "text": "Nuestras virtudes y nuestros defectos son inseparables, como la fuerza y la materia. Cuando se separan, el hombre deja de existir"
+                "author": "Henry David Thoreau",
+                "text": "Vaya con confianza en la dirección de tus sueños. Vive la vida que has imaginado."
             }
         }
     },
-    "21": {
+    "12-11": {
+        "quote": {
+            "en": {
+                "author": "Anne Frank",
+                "text": "I still believe, in spite of everything, that people are truly good at heart."
+            },
+            "es": {
+                "author": "Anne Frank",
+                "text": "Sigo creyendo, a pesar de todo, que las personas son realmente buenas en su corazón."
+            }
+        }
+    },
+    "12-12": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Do not go where the path may lead, go instead where there is no path and leave a trail."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "No vayas por donde pueda ir el camino, ve en cambio por donde no haya camino y deja tu rastro."
+            }
+        }
+    },
+    "12-13": {
+        "quote": {
+            "en": {
+                "author": "Albert Schweitzer",
+                "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful."
+            },
+            "es": {
+                "author": "Albert Schweitzer",
+                "text": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que estás haciendo, serás exitoso."
+            }
+        }
+    },
+    "12-14": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "You may not control all the events that happen to you, but you can decide not to be reduced by them."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Tal vez no puedas controlar todos los eventos que te sucedan, pero puedes decidir no ser reducido por ellos."
+            }
+        }
+    },
+    "12-15": {
+        "quote": {
+            "en": {
+                "author": "Vincent van Gogh",
+                "text": "I am seeking. I am striving. I am in it with all my heart."
+            },
+            "es": {
+                "author": "Vincent van Gogh",
+                "text": "Estoy buscando. Estoy luchando. Estoy en ello con todo mi corazón."
+            }
+        }
+    },
+    "12-16": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "The only way to have a friend is to be one."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "La única forma de tener un amigo es ser uno."
+            }
+        }
+    },
+    "12-17": {
+        "quote": {
+            "en": {
+                "author": "Ludwig van Beethoven",
+                "text": "Music can change the world."
+            },
+            "es": {
+                "author": "Ludwig van Beethoven",
+                "text": "La música puede cambiar el mundo."
+            }
+        }
+    },
+    "12-18": {
+        "quote": {
+            "en": {
+                "author": "Maya Angelou",
+                "text": "I can be changed by what happens to me. But I refuse to be reduced by it."
+            },
+            "es": {
+                "author": "Maya Angelou",
+                "text": "Puedo ser cambiada por lo que me sucede. Pero me niego a ser reducida por ello."
+            }
+        }
+    },
+    "12-19": {
+        "quote": {
+            "en": {
+                "author": "Pablo Neruda",
+                "text": "You can cut all the flowers but you cannot keep spring from coming."
+            },
+            "es": {
+                "author": "Pablo Neruda",
+                "text": "Puedes cortar todas las flores pero no puedes evitar que llegue la primavera."
+            }
+        }
+    },
+    "12-20": {
+        "quote": {
+            "en": {
+                "author": "Steve Jobs",
+                "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do."
+            },
+            "es": {
+                "author": "Steve Jobs",
+                "text": "Tu trabajo va a llenar gran parte de tu vida, y la única forma de estar realmente satisfecho es hacer lo que creas que es un gran trabajo. Y la única forma de hacer un gran trabajo es amar lo que haces."
+            }
+        }
+    },
+    "12-21": {
+        "quote": {
+            "en": {
+                "author": "Eleanor Roosevelt",
+                "text": "Do what you feel in your heart to be right – for you'll be criticized anyway."
+            },
+            "es": {
+                "author": "Eleanor Roosevelt",
+                "text": "Haz lo que sientes en tu corazón que es correcto, porque de todos modos serás criticado."
+            }
+        }
+    },
+    "12-22": {
+        "quote": {
+            "en": {
+                "author": "Martin Luther King Jr.",
+                "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+            },
+            "es": {
+                "author": "Martin Luther King Jr.",
+                "text": "La oscuridad no puede expulsar la oscuridad; solo la luz puede hacerlo. El odio no puede expulsar el odio; solo el amor puede hacerlo."
+            }
+        }
+    },
+    "12-23": {
+        "quote": {
+            "en": {
+                "author": "Albert Einstein",
+                "text": "The only source of knowledge is experience."
+            },
+            "es": {
+                "author": "Albert Einstein",
+                "text": "La única fuente de conocimiento es la experiencia."
+            }
+        }
+    },
+    "12-24": {
+        "quote": {
+            "en": {
+                "author": "Dalai Lama",
+                "text": "Happiness is not something ready made. It comes from your own actions."
+            },
+            "es": {
+                "author": "Dalai Lama",
+                "text": "La felicidad no es algo hecho. Viene de tus propias acciones."
+            }
+        }
+    },
+    "12-25": {
+        "quote": {
+            "en": {
+                "author": "Lucius Annaeus Seneca",
+                "text": "Luck is what happens when preparation meets opportunity."
+            },
+            "es": {
+                "author": "Lucius Annaeus Seneca",
+                "text": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad."
+            }
+        }
+    },
+    "12-26": {
+        "quote": {
+            "en": {
+                "author": "Helen Keller",
+                "text": "The best way to predict the future is to create it."
+            },
+            "es": {
+                "author": "Helen Keller",
+                "text": "La mejor manera de predecir el futuro es creándolo."
+            }
+        }
+    },
+    "12-27": {
+        "quote": {
+            "en": {
+                "author": "William Shakespeare",
+                "text": "Love all, trust a few, do wrong to none."
+            },
+            "es": {
+                "author": "William Shakespeare",
+                "text": "Ama a todos, confía en unos pocos, no hagas daño a nadie."
+            }
+        }
+    },
+    "12-28": {
+        "quote": {
+            "en": {
+                "author": "Ralph Waldo Emerson",
+                "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+            },
+            "es": {
+                "author": "Ralph Waldo Emerson",
+                "text": "Lo que queda atrás y lo que está por delante son asuntos pequeños en comparación con lo que está dentro de nosotros."
+            }
+        }
+    },
+    "12-29": {
+        "quote": {
+            "en": {
+                "author": "J.R.R. Tolkien",
+                "text": "Not all those who wander are lost."
+            },
+            "es": {
+                "author": "J.R.R. Tolkien",
+                "text": "No todos los que vagan están perdidos."
+            }
+        }
+    },
+    "12-30": {
+        "quote": {
+            "en": {
+                "author": "Mother Teresa",
+                "text": "Be faithful in small things because it is in them that your strength lies."
+            },
+            "es": {
+                "author": "Madre Teresa",
+                "text": "Sé fiel en las pequeñas cosas porque en ellas reside tu fuerza."
+            }
+        }
+    },
+    "12-31": {
         "quote": {
             "en": {
                 "author": "Pablo Picasso",
-                "text": "He can who thinks he can, and he can't who thinks he can't. This is an inexorable, indisputable law"
+                "text": "Every act of creation is first an act of destruction."
             },
             "es": {
                 "author": "Pablo Picasso",
-                "text": "Puede quien piensa que puede, y no puede quien piensa que no puede. Esta es una ley inexorable e indiscutible"
-            }
-        }
-    },
-    "22": {
-        "quote": {
-            "en": {
-                "author": "Carl Jung",
-                "text": "The shoe that fits one person pinches another; there is no recipe for living that suits all cases"
-            },
-            "es": {
-                "author": "Carl Jung",
-                "text": "El zapato que se ajusta a una persona pellizca a otra; no hay una receta para vivir que se adapte a todos los casos"
-            }
-        }
-    },
-    "23": {
-        "quote": {
-            "en": {
-                "author": "Samuel Johnson",
-                "text": "Memory is the mother of all wisdom"
-            },
-            "es": {
-                "author": "Samuel Johnson",
-                "text": "La memoria es la madre de toda sabiduría"
-            }
-        }
-    },
-    "24": {
-        "quote": {
-            "en": {
-                "author": "Tehyi Hsieh",
-                "text": "Action will remove the doubts that theory cannot solve"
-            },
-            "es": {
-                "author": "Tehyi Hsieh",
-                "text": "La acción eliminará las dudas que la teoría no puede resolver"
-            }
-        }
-    },
-    "25": {
-        "quote": {
-            "en": {
-                "author": "Leonardo da Vinci",
-                "text": "Time stays long enough for anyone who will use it"
-            },
-            "es": {
-                "author": "Leonardo da Vinci",
-                "text": "El tiempo permanece lo suficiente para cualquiera que lo use"
-            }
-        }
-    },
-    "26": {
-        "quote": {
-            "en": {
-                "author": "Keshavan Nair",
-                "text": "With courage, you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity"
-            },
-            "es": {
-                "author": "Keshavan Nair",
-                "text": "Con valentía, te atreverás a correr riesgos, tendrás la fuerza para ser compasivo y la sabiduría para ser humilde. Valentía es la base de la integridad"
-            }
-        }
-    },
-    "27": {
-        "quote": {
-            "en": {
-                "author": "Thich Nhat Hanh",
-                "text": "The secret of Buddhism is to remove all ideas, all concepts, in order for the truth to have a chance to penetrate, to reveal itself"
-            },
-            "es": {
-                "author": "Thich Nhat Hanh",
-                "text": "El secreto del budismo es eliminar todas las ideas, todos los conceptos, a fin de que la verdad tenga la oportunidad de penetrar, de revelarse"
-            }
-        }
-    },
-    "28": {
-        "quote": {
-            "en": {
-                "author": "John Locke",
-                "text": "I have always thought the actions of men the best interpreters of their thoughts"
-            },
-            "es": {
-                "author": "John Locke",
-                "text": "Siempre he pensado que las acciones de los hombres son las mejores intérpretes de sus pensamientos"
-            }
-        }
-    },
-    "29": {
-        "quote": {
-            "en": {
-                "author": "Marie Curie",
-                "text": "Be less curious about people and more curious about ideas"
-            },
-            "es": {
-                "author": "Marie Curie",
-                "text": "Ten menos curiosidad por las personas y más curiosidad por las ideas"
-            }
-        }
-    },
-    "30": {
-        "quote": {
-            "en": {
-                "author": "Kenji Miyazawa",
-                "text": "We must embrace pain and burn it as fuel for our journey"
-            },
-            "es": {
-                "author": "Kenji Miyazawa",
-                "text": "Debemos abrazar el dolor y quemarlo como combustible para nuestro viaje"
-            }
-        }
-    },
-    "31": {
-        "quote": {
-            "en": {
-                "author": "Jean-Paul Sartre",
-                "text": "We are our choices"
-            },
-            "es": {
-                "author": "Jean-Paul Sartre",
-                "text": "Somos nuestras elecciones"
+                "text": "Cada acto de creación es primero un acto de destrucción."
             }
         }
     }
 }
+
+
+   
